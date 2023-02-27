@@ -4,7 +4,7 @@
 #### Creating a substainable MacOS-like ecosystem
 
 [![OpenSCAD](https://img.shields.io/badge/Arizona--Laptop-f9d72c.svg?style=for-the-badge&logoColor=white&logo=openscad)](Chasis)
-[![OS](https://img.shields.io/badge/Arizona--OS-ebb003.svg?style=for-the-badge&logoColor=white&logo=linux)](OS)
+[![OS](https://img.shields.io/badge/Arizona--OS-ebb003.svg?style=for-the-badge&logoColor=white&logo=linux)][OS]
 
 [OS]: https://github.com/21st-centuryman/Arizona-OS
 
