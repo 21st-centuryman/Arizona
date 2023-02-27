@@ -4,7 +4,7 @@
 #### Creating a substainable MacOS-like ecosystem
 
 [![OpenSCAD](https://img.shields.io/badge/Arizona--Laptop-f9d72c.svg?style=for-the-badge&logoColor=white&logo=openscad)]()
-[![OS](https://img.shields.io/badge/Arizona--OS-FCC624.svg?style=for-the-badge&logoColor=white&logo=linux)]()
+[![OS](https://img.shields.io/badge/Arizona--OS-ebb003.svg?style=for-the-badge&logoColor=white&logo=linux)]()
 
 </div>
 
